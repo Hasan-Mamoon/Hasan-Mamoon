@@ -1,6 +1,5 @@
 - Hi, I’m @Hasan-Mamoon
-- I’m interested in Software Development...
-- I’m currently a Software Engineering student...
+- I’m currently a Software Engineering student and aim to improve and learn new skills
 - Reach me at <b>Facebook</b> : <a href="https://www.facebook.com/hassan.mamoon2"><i>Hassan Mamoon</i></a> || <b>Instagram</b> : <a href="https://www.instagram.com/has._.sa.n"><i>Hassan</i></a>
 
 <!---
