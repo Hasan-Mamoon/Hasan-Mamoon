@@ -6,9 +6,8 @@ I'm a passionate Software Engineer with an interest in automation, cloud technol
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hasan-Mamoon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hasan-Mamoon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mamoon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=7277&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=7277&api_domain=hackatime.hackclub.com&theme=rose_pine&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 
 ---
